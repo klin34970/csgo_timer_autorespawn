@@ -1,0 +1,48 @@
+﻿//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+
+
+"Phrases"
+{
+	"Auto Respawn On"
+	{
+    		"fr"			"[{GREEN}AUTORESPAWN{NORMAL}] Auto Respawn: {RED}Activé{NORMAL}."
+		"en"			"[{GREEN}AUTORESPAWN{NORMAL}] Auto Respawn: {RED}Enabled{NORMAL}."
+	}
+
+	"Auto Respawn Off"
+	{
+    		"fr"			"[{GREEN}AUTORESPAWN{NORMAL}] Auto Respawn: {RED}Désactivé{NORMAL}."
+		"en"			"[{GREEN}AUTORESPAWN{NORMAL}] Auto Respawn: {RED}Disabled{NORMAL}."
+	}
+
+	"Auto Respawn"
+	{
+    		"fr"			"[{GREEN}AUTORESPAWN{NORMAL}] Vous avez été respawn."
+		"en"			"[{GREEN}AUTORESPAWN{NORMAL}] You have been respawned."
+	}
+
+	"Admin Auto Respawn Off"
+	{
+    		"fr"			"[{GREEN}AUTORESPAWN{NORMAL}] Admin Auto Respawn: {RED}Désactivé{NORMAL}."
+		"en"			"[{GREEN}AUTORESPAWN{NORMAL}] Admin Auto Respawn: {RED}Disabled{NORMAL}."
+	}
+
+	"Vip Auto Respawn Off"
+	{
+    		"fr"			"[{GREEN}AUTORESPAWN{NORMAL}] Vip Auto Respawn: {RED}Désactivé{NORMAL}."
+		"en"			"[{GREEN}AUTORESPAWN{NORMAL}] Vip Auto Respawn: {RED}Disabled{NORMAL}."
+	}
+
+	"Normal Auto Respawn Off"
+	{
+		"#format"		"{1:i}"
+    		"fr"			"[{GREEN}AUTORESPAWN{NORMAL}] Auto Respawn: Désactivé. (+{RED}{1}s{NORMAL} for {BLUE}VIP{NORMAL})."
+		"en"			"[{GREEN}AUTORESPAWN{NORMAL}] Auto Respawn: Disabled. (+{RED}{1}s{NORMAL} pour les {BLUE}VIP{NORMAL})."
+	}
+}
+
